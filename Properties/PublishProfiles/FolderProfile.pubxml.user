@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Fahad\training-admin\Build</_PublishTargetUrl>
+    <History>True|2022-04-08T11:39:39.1990955Z;True|2022-04-08T16:38:03.1730761+05:00;True|2022-04-07T15:09:44.7003707+05:00;True|2022-04-07T15:09:19.2446879+05:00;True|2022-04-06T15:25:42.6498440+05:00;True|2022-03-29T14:53:47.3923104+05:00;True|2022-03-29T14:40:42.6476767+05:00;True|2022-03-29T14:21:29.2212205+05:00;True|2022-03-29T14:20:12.1824706+05:00;True|2022-03-29T14:00:05.8334268+05:00;True|2022-03-29T13:24:51.0701791+05:00;True|2022-03-29T13:21:22.0766131+05:00;True|2022-03-29T13:13:14.1665006+05:00;True|2022-03-29T12:55:58.3444803+05:00;True|2022-03-29T12:55:16.0498295+05:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>
